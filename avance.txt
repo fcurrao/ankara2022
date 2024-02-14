@@ -1,0 +1,44 @@
+***********************************************************************************************************************
+--------------------------- PROXIMA REUNION CON MELI  --------------------------------------------------------------
+- HACERES ::
+-limpieza de codigo
+
+
+
+
+***********************************************************************************************************************
+---------------------------HACIENDO / POR HACER ----------------------------------------------------------------------
+ 
+
+-DETAIL (GALERIA y otros)
+-OURTEAM (...dificil) 
+-api (back and)  /  todo lo que respecta a api(propiedades)
+ 
+
+**********************  **********************
+
+-mejorar GALERIA
+- mejorar CONTACT  (a mejorar -> que se envie el formulario , sin la pagina servidor de por medio(https://formsubmit.co/)...)
+
+-limpieza de codigo
+-de 800px para abajo se rompe (hacer responsive)-------RESPONSIVE-------  
+-de 1050px para abajo: fotos de NOSOTROS(se rompe) -------RESPONSIVE-------
+ 
+
+
+***********************************************************************************************************************
+---------------------------------ECHO--------------------------------------------------------------------------------- 
+about us/ nosotros (V)
+footer (v)
+404 (v)
+navbar(v)
+HOME (v)
+
+
+
+
+
+
+
+
+<
